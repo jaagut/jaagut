@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there or *Moin* as we like to say in Hamburg! 👋
+
+I am currently studying computer science (M.Sc) at the Universität Hamburg, Germany.
+Shortly after starting my Bachelor degree, I joined the awesome local RoboCup team [@bit-bots](https://github.com/bit-bots).
+This is where I am learning lots about humanoid robotics and other interesting stuff.
 
 <!--
 **jaagut/jaagut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
